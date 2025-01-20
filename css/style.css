@@ -155,7 +155,7 @@ footer .social a img:hover {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-   /* Tablets and small laptops */
+   /* Tablets y small laptops */
    header {
        grid-template-columns: 1fr;
        text-align: center;
